@@ -69,6 +69,11 @@ return require('packer').startup(function(use)
       {'rafamadriz/friendly-snippets'},
     }
   }
+
+  -- Theme
+  use {
+    'rebelot/kanagawa.nvim'
+  }
   -- use 'foo1/bar1.nvim'
   -- use 'foo2/bar2.nvim'
 
