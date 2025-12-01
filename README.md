@@ -6,5 +6,5 @@ This repostitory is used by me to keep track of my neovim configuration. Since m
 Use the following command to clone and install the configuration
 
 ```
-git clone git@github.com:benkoben/nvim.git:~/.configs/nvim
+git clone git@github.com:benkoben/nvim.git ~/.config/nvim
 ```
